@@ -13,6 +13,8 @@
 ### ☁️ Cloud Platforms
 - **AWS**: EC2, S3, RDS, VPC, IAM, Lambda, CloudWatch, CloudTrail  
 - **Azure**: Virtual Machines, Storage Accounts, VNets, Azure Monitor, IoT Explorer
+- **GCP**: Basic Exposure
+- **Oracle**: Basic Exposure
 
 ### 🧱 Infrastructure & DevOps
 - Infrastructure as Code: **Terraform, CloudFormation**
@@ -28,3 +30,25 @@
 - IAM, least-privilege access, MFA
 - AWS Well-Architected Framework
 - Cost optimisation & operational excellence
+
+
+## 🏅  Professional Certifications
+
+### ***AWS***
+•	AWS Certified Solutions Architect - Associate
+•	AWS Certified Developer - Associate
+•	AWS Certified CloudOps Engineer - Associate
+•	AWS Certified Cloud Practitioner
+•	AWS Certified AI Practitioner
+•	AWS Proficient Badges – Well Architected, Knowledge Architecting & Serverless
+
+### ***Azure***
+•	AZ 900: Microsoft Certified Azure Fundamentals
+•	MS 900: Microsoft 365 Certified: Fundamentals
+•	Microsoft Azure Administrator - Infosys
+
+### ***DevOps***
+
+
+
+
