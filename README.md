@@ -35,20 +35,38 @@
 ## 🏅  Professional Certifications
 
 ### ***AWS***
-•	AWS Certified Solutions Architect - Associate
-•	AWS Certified Developer - Associate
-•	AWS Certified CloudOps Engineer - Associate
-•	AWS Certified Cloud Practitioner
-•	AWS Certified AI Practitioner
-•	AWS Proficient Badges – Well Architected, Knowledge Architecting & Serverless
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
+- AWS Certified CloudOps Engineer - Associate
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
+- AWS Proficient Badges – Well Architected, Knowledge Architecting & Serverless
 
 ### ***Azure***
-•	AZ 900: Microsoft Certified Azure Fundamentals
-•	MS 900: Microsoft 365 Certified: Fundamentals
-•	Microsoft Azure Administrator - Infosys
+- AZ 900: Microsoft Certified Azure Fundamentals
+- MS 900: Microsoft 365 Certified: Fundamentals
+- Microsoft Azure Administrator - Infosys
+
+
+### ***IT & Systems Administration***
+- ITIL Foundation Associate – Infosys
+- ITIL Awareness – Infosys
+- ServiceNow Administration – Infosys
+- Active Directory Administration – Infosys
+- Windows Server Administration (2016 & 2022) – Infosys
+- Production Support – Best Practices – Infosys
+- Networking Basics - Cisco
+- Operating Systems Basics
+
+
+### ***AI Learnings***
+- Introduction to Generative AI-Google
+- Introduction to Modern AI – Cisco
+
 
 ### ***DevOps***
-
+- DevOps Beginners to Advance with Projects – Udemy
+- DevOps Engineering – Planning to Production - GeeksForGeeks
 
 
 
