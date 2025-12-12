@@ -36,16 +36,16 @@
 
 ### ***AWS***
 - [AWS Certified Solutions Architect – Associate] (https://www.credly.com/badges/1aeeff1b-9a61-46b9-88ce-a667e817389d/public_url)
-- AWS Certified Developer - Associate
-- AWS Certified CloudOps Engineer - Associate
-- AWS Certified Cloud Practitioner
-- AWS Certified AI Practitioner
-- AWS Proficient Badges – Well Architected, Knowledge Architecting & Serverless
+- AWS Certified Developer - Associate (https://www.credly.com/badges/f7e72803-499e-40b6-b4e5-d4333b009a7e/public_url)
+- AWS Certified CloudOps Engineer - Associate (https://www.credly.com/badges/d61d52d9-6207-4cef-9f46-20f5bfee3b5c/public_url)
+- AWS Certified Cloud Practitioner (https://www.credly.com/badges/43fa9420-a20e-4247-aa65-ffbc980f90cf/public_url)
+- AWS Certified AI Practitioner (https://www.credly.com/badges/e8b4fc1d-f81d-4916-9df2-0b4306997e64/public_url)
+- AWS Proficient Badges – Well Architected, Knowledge Architecting & Serverless 
 
 ### ***Azure***
-- AZ 900: Microsoft Certified Azure Fundamentals
-- MS 900: Microsoft 365 Certified: Fundamentals
-- Microsoft Azure Administrator - Infosys
+- AZ 900: Microsoft Certified Azure Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/ShivangiPandey-2577/809FBC7C0012FBBE?sharingId=A35073F0EFD29E0A)
+- MS 900: Microsoft 365 Certified: Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/ShivangiPandey-2577/74419EFCF9D9EEE5?sharingId=A35073F0EFD29E0A)
+- Microsoft Azure Administrator - Infosys 
 
 
 ### ***IT & Systems Administration***
