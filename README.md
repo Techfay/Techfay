@@ -80,10 +80,14 @@
 
 | Service  | URL |
 |---------|-----|
-| GitHub  | https://github.com/ShivangiPandey |
+| GitHub  | https://github.com/ShivangiPandey](https://github.com/Techfay |
 | LinkedIn | https://www.linkedin.com/in/shivangi-pandey-4074181b0/ |
 | Portfolio | https://shivangipandey.netlify.app/ |
 | Medium | https://medium.com/@shivangipandeydt.126 |
+
+## ☁️ Certifications & Skills
+
+https://www.credly.com/earner/earned/badge/1aeeff1b-9a61-46b9-88ce-a667e817389d 
 
 
 
