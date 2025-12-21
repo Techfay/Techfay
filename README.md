@@ -1,10 +1,10 @@
 # Shivangi Pandey
 
-**Cloud Engineer & Cloud Solution Architect | 3+ years of experience | 5x AWS Certified & 2x Azure Certified | Ex-Infosys (Intel Client)**
+**Cloud Engineer & Cloud Solution Architect | 5+ years of experience | 5x AWS Certified & 2x Azure Certified | Ex-Infosys (Intel Client)**
 
 # About Me.
 
-I bring over **3 years of experience as a Senior Systems Engineer at Infosys**, where I delivered **end-to-end cloud and IT infrastructure support for Intel** across **AWS, Azure, and on-premises environments**. My work spanned **Windows Server, Linux, VMware/Hyper-V, vRA**, and cloud platforms, with a strong focus on **automation, monitoring, reliability, and operations**.
+I bring ** 5 years of experience as a Senior Systems Engineer at Infosys**, where I delivered **end-to-end cloud and IT infrastructure support for Intel** across **AWS, Azure, and on-premises environments**. My work spanned **Windows Server, Linux, VMware/Hyper-V, vRA**, and cloud platforms, with a strong focus on **automation, monitoring, reliability, and operations**.
 
 I have hands-on experience designing and supporting **scalable, highly available, and cost-optimised cloud environments**, leveraging **Infrastructure as Code (Terraform, CloudFormation)** and **AWS-native CI/CD**. I contributed to achieving **99.95% uptime** and **30–40% MTTR reduction** through effective monitoring, patching, and operational best practices.
 
