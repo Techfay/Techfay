@@ -89,11 +89,11 @@ I recently completed my **Master’s in Cloud Computing from the National Colleg
 ### ***Azure***
 - AZ 900: Microsoft Certified Azure Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/ShivangiPandey-2577/809FBC7C0012FBBE?sharingId=A35073F0EFD29E0A)
 - MS 900: Microsoft 365 Certified: Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/ShivangiPandey-2577/74419EFCF9D9EEE5?sharingId=A35073F0EFD29E0A)
-- AZ 104: Microsoft Certified: Azure Administrator Associate (https://learn.microsoft.com/api/credentials/share/en-us/ShivangiPandey-2577/B114310BD984DEB7?sharingId=A35073F0EFD29E0A)![Azure104](https://github.com/user-attachments/assets/134e3fb9-b2c7-4ba3-a98b-eec1501caf4c)
+- AZ 104: Microsoft Certified: Azure Administrator Associate (https://learn.microsoft.com/api/credentials/share/en-us/ShivangiPandey-2577/B114310BD984DEB7?sharingId=A35073F0EFD29E0A)
 - Microsoft Azure Administrator - Infosys
 
 ### ***Oracle***
-- 
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate (https://catalog-education.oracle.com/ords/certview/sharebadge?id=FE4D111A28CC4FF3ADEE3CF97724B2D5E014F1D956E2F7C7B971DBE94C1AAD90)
 
 
 ### ***IT & Systems Administration***
@@ -110,6 +110,8 @@ I recently completed my **Master’s in Cloud Computing from the National Colleg
 ### ***AI Learnings***
 - Introduction to Generative AI-Google
 - Introduction to Modern AI – Cisco
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate (https://catalog-education.oracle.com/ords/certview/sharebadge?id=F1354CBF11D6888AB40372CF1F2B1C7BEB59AD0126B683C79FF4A40196181B21)
+
 
 
 ### ***DevOps***
@@ -146,7 +148,9 @@ I recently completed my **Master’s in Cloud Computing from the National Colleg
 <img width="150" height="150" alt="well-architected-proficient" src="https://github.com/user-attachments/assets/b06b8135-1758-4a61-8df2-fbddf731c38d" />
 <img width="150" height="150" alt="Azure365" src="https://github.com/user-attachments/assets/c5a6eef4-a41f-4951-b71d-79561d64af67" />
 <img width="150" height="150" alt="Azure Fundamentals" src="https://github.com/user-attachments/assets/d22de359-7116-4052-aa3c-5fd579715576" />
-<img width="150" height="150" alt="Azure Administrator" src="(https://github.com/user-attachments/assets/a5429ce8-b043-4a68-b12c-874889d8907a)" />
+<img width="150" height="150" alt="AZ-104 Azure Administrator" src="https://github.com/user-attachments/assets/23221b98-da6f-46e9-93ed-85042e201787" />
+<img width="150" height="150" alt="Oracle Cloud Infrastructure" src="https://github.com/user-attachments/assets/2a932abf-4afb-41d5-a1f9-d8205728ca6e" />
+<img width="150" height="150" alt="Oracle Cloud AI Infrastructure" src="https://github.com/user-attachments/assets/b03ae330-1e2b-4d9d-a8d0-e1715ba044f0)" />
 <img width="150" height="150" alt="Intro to Gen AI" src="https://github.com/user-attachments/assets/81b50a19-e051-44aa-a2ae-1995281a8491" />
 <img width="150" height="150" alt="introduction-to-modern-ai" src="https://github.com/user-attachments/assets/67439d5a-eba9-48fa-bf7c-2fddf7eeb259" />
 
