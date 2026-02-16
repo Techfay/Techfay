@@ -1,6 +1,6 @@
 # Shivangi Pandey
 
-**Cloud Engineer & Cloud Solution Architect | 5+ years of experience | 5x AWS Certified & 2x Azure Certified | Ex-Infosys (Intel Client)**
+**Cloud Engineer & Cloud Solution Architect | 5+ years of experience | 5x AWS Certified & 3x Azure Certified | Ex-Infosys (Intel Client)**
 
 # About Me.
 
@@ -89,6 +89,8 @@ I recently completed my **Master’s in Cloud Computing from the National Colleg
 ### ***Azure***
 - AZ 900: Microsoft Certified Azure Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/ShivangiPandey-2577/809FBC7C0012FBBE?sharingId=A35073F0EFD29E0A)
 - MS 900: Microsoft 365 Certified: Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/ShivangiPandey-2577/74419EFCF9D9EEE5?sharingId=A35073F0EFD29E0A)
+- AZ 104: Microsoft Certified: Azure Administrator Associate (https://learn.microsoft.com/api/credentials/share/en-us/ShivangiPandey-2577/B114310BD984DEB7?sharingId=A35073F0EFD29E0A)![Azure104](https://github.com/user-attachments/assets/134e3fb9-b2c7-4ba3-a98b-eec1501caf4c)
+
 - Microsoft Azure Administrator - Infosys 
 
 
@@ -142,8 +144,10 @@ I recently completed my **Master’s in Cloud Computing from the National Colleg
 <img width="150" height="150" alt="well-architected-proficient" src="https://github.com/user-attachments/assets/b06b8135-1758-4a61-8df2-fbddf731c38d" />
 <img width="150" height="150" alt="Azure365" src="https://github.com/user-attachments/assets/c5a6eef4-a41f-4951-b71d-79561d64af67" />
 <img width="150" height="150" alt="Azure Fundamentals" src="https://github.com/user-attachments/assets/d22de359-7116-4052-aa3c-5fd579715576" />
+<img width="150" height="150" alt="Azure Administrator" src="![Azure104](https://github.com/user-attachments/assets/a5429ce8-b043-4a68-b12c-874889d8907a)" />
 <img width="150" height="150" alt="Intro to Gen AI" src="https://github.com/user-attachments/assets/81b50a19-e051-44aa-a2ae-1995281a8491" />
 <img width="150" height="150" alt="introduction-to-modern-ai" src="https://github.com/user-attachments/assets/67439d5a-eba9-48fa-bf7c-2fddf7eeb259" />
+
 
 ## 🎓 Education
 MSc Cloud Computing — National College of Ireland (2024-2025)
