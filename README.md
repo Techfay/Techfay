@@ -150,7 +150,7 @@ I recently completed my **Master’s in Cloud Computing from the National Colleg
 <img width="150" height="150" alt="Azure Fundamentals" src="https://github.com/user-attachments/assets/d22de359-7116-4052-aa3c-5fd579715576" />
 <img width="150" height="150" alt="AZ-104 Azure Administrator" src="https://github.com/user-attachments/assets/23221b98-da6f-46e9-93ed-85042e201787" />
 <img width="150" height="150" alt="Oracle Cloud Infrastructure" src="https://github.com/user-attachments/assets/2a932abf-4afb-41d5-a1f9-d8205728ca6e" />
-<img width="150" height="150" alt="Oracle Cloud AI Infrastructure" src="https://github.com/user-attachments/assets/b03ae330-1e2b-4d9d-a8d0-e1715ba044f0)" />
+<img width="150" height="150" alt="Oracle Cloud AI Infrastructure" src="https://github.com/user-attachments/assets/b03ae330-1e2b-4d9d-a8d0-e1715ba044f0" />
 <img width="150" height="150" alt="Intro to Gen AI" src="https://github.com/user-attachments/assets/81b50a19-e051-44aa-a2ae-1995281a8491" />
 <img width="150" height="150" alt="introduction-to-modern-ai" src="https://github.com/user-attachments/assets/67439d5a-eba9-48fa-bf7c-2fddf7eeb259" />
 
