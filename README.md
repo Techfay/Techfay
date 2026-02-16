@@ -133,7 +133,7 @@ I recently completed my **Master’s in Cloud Computing from the National Colleg
 | GitHub  | https://github.com/Techfay |
 | LinkedIn | https://www.linkedin.com/in/shivangi-pandey-4074181b0/ |
 | Credly Badges | https://www.credly.com/users/shivangi-pandey.e37c7ea2/edit#credly |
-| Portfolio | https://shivangipandey.netlify.app/ |
+| Portfolio | https://shivangipandey-cloud.netlify.app/ |
 | Medium | https://medium.com/@shivangipandeydt.126 |
 
 ## Badges & Skills
